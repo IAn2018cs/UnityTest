@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements DecisionMakers.De
     @Override
     public void christmasing() {
         textView.setVisibility(View.VISIBLE);
-        mTextToSpeech.setPitch(0.5f);
+        mTextToSpeech.setPitch(0.001f);
         mTextToSpeech.setSpeechRate(1f);
         mTextToSpeech.speak(getResources().getString(R.string.love_text_speech),TextToSpeech.QUEUE_FLUSH,null);
     }
