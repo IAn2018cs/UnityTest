@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">UnityTest</string>
+    <string name="app_name">圣诞快乐</string>
+    <string name="love_text">小雅，圣诞节快乐，我爱你❤️</string>
+    <string name="love_text_speech">小雅，圣诞节快乐，我爱你️</string>
+    <string name="love_text2">小雅，愿你每天都开心，我爱你❤️</string>
 </resources>
